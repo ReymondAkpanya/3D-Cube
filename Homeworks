@@ -1,0 +1,18 @@
+Falls wir das nicht zusammen machen guckt einfach mal bei youtube oder in den Dokumenten
+wie man ein Programmm anfängt und wie man es compiliert und co
+Aufgaben:
+1.Schreiben Sie ein Konsolenprogramm, das die Zeichenkette "Hello World!" auf dem Bildschirm anzeigt!
+Benutzen Sie dazu ausschließlich cout
+
+2.Programm, das 3 Zahlen als Eingabe bekommt und als Birdschirmausgabe ausgibt, welche Zahl größer ist.
+
+3. Die Aufgabe 2 mit 4 Zahlen (D.h Eingabe 5 2 7 1 --Ausgabe 1 < 2 < 5 < 7 )
+
+4.Schreiben Sie ein Konsolenprogramm, das die Fibonacci-Reihe bis zu einer Grenze ausgibt, die sie vom Benutzer vorher erfragen.
+
+Beispiel: 
+
+Ihre Grenze: 14
+0 1 1 2 3 5 8 13 (falls ihr die nicht kennt googlet) 
+
+5.Es soll eine Konsolenanwendung programmiert werden, die eine Ganzzahl einliest, diese in ihre einzelnen Ziffern zerlegt und untereinander ausgibt.
